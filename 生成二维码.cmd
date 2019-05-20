@@ -1,2 +1,2 @@
-qrcode.exe -start 0 -end 10
+qrcode.exe -start 0 -end 63500
 pause
